@@ -1,2 +1,1 @@
-# Sem6-Machine-Learning-
-Semester 6 Machine Learning Lab 
+# Semester 6 Machine Learning Lab
